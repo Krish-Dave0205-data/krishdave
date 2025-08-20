@@ -47,13 +47,13 @@ header {
   height: 40px;
   object-fit: cover;
   border-radius: 50%;
-  border: 2px solid #00d1b2;
+  border: 2px solid #000000;
 }
 
 .logo-text {
   font-size: 22px;
   font-weight: 700;
-  color: #00d1b2;
+  color: #fdffff;
 }
 
 .nav-links {
@@ -82,7 +82,7 @@ header {
 
 /* ===== HERO SECTION ===== */
 .hero {
-  background: linear-gradient(to right, #00d1b2, #222);
+  background: linear-gradient(to right, #3336cf, #222);
   text-align: center;
   padding: 100px 20px;
 }
@@ -114,7 +114,7 @@ section {
 
 h2 {
   font-size: 30px;
-  color: #00d1b2;
+  color: #a0a1df;
   margin-bottom: 25px;
   text-align: center;
 }
@@ -129,7 +129,7 @@ h2 {
 .project-card {
   background-color: #1a1a1a;
   padding: 20px;
-  border-left: 4px solid #00d1b2;
+  border-left: 4px solid #3336cf;
   border-radius: 10px;
   transition: 0.3s ease;
   box-shadow: 0 4px 10px rgba(0, 209, 178, 0.1);
@@ -142,7 +142,7 @@ h2 {
 
 .project-card h3 {
   margin-bottom: 10px;
-  color: #00d1b2;
+  color: #cdcee9;
 }
 
 .project-card img {
@@ -202,7 +202,7 @@ h2 {
 
 .contact button {
   padding: 12px;
-  background-color: #00d1b2;
+  background-color: #3336cf;
   border: none;
   color: #fff;
   font-weight: 600;
@@ -212,7 +212,7 @@ h2 {
 }
 
 .contact button:hover {
-  background-color: #00b09e;
+  background-color: #3336cf;
 }
 
 /* ===== SOCIAL LINKS ===== */
@@ -230,7 +230,7 @@ h2 {
 }
 
 .social-links a:hover {
-  color: #00d1b2;
+  color: #3336cf;
 }
 
 /* ===== FOOTER ===== */
@@ -253,7 +253,7 @@ footer {
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 40px;
-  color: #33d7f0;
+  /* color: #12122c; */
 }
 
 .skills-grid {
